@@ -55,6 +55,7 @@ namespace JournalApp
                         {
                             CreateFile();
                         }
+                        
                     }
                     
                 }
