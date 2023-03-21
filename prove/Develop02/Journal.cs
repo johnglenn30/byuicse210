@@ -55,7 +55,7 @@ namespace JournalApp
                         {
                             CreateFile();
                         }
-                        
+
                     }
                     
                 }
@@ -98,3 +98,5 @@ namespace JournalApp
 
     }
 }
+// References
+// https://www.youtube.com/watch?v=sWfe80Fj9Pg&t=2275s
