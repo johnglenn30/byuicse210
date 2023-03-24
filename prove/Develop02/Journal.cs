@@ -44,7 +44,7 @@ namespace JournalApp
 
                 if (int.TryParse(input, out int number))
                 {
-                    while (number == 0)
+                    while (number != 0)
                     {
                         ShowMenu();
                         if (number == 2)
