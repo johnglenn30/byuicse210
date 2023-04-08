@@ -2,7 +2,7 @@ public abstract class Goals
 {
     public abstract string Name { get; }
     public abstract string Description { get; }
-    public int Duration { get; set; }
+    public int Points { get; set; }
 
     public static void Run(Goals goals)
     {
